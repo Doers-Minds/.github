@@ -1,26 +1,6 @@
-                                                                                                                                                                                                                   
-                                                                                                                                                                                                                   
-DDDDDDDDDDDDD             OOOOOOOOO     EEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR      SSSSSSSSSSSSSSS      MMMMMMMM               MMMMMMMMIIIIIIIIIINNNNNNNN        NNNNNNNNDDDDDDDDDDDDD           SSSSSSSSSSSSSSS 
-D::::::::::::DDD        OO:::::::::OO   E::::::::::::::::::::ER::::::::::::::::R   SS:::::::::::::::S     M:::::::M             M:::::::MI::::::::IN:::::::N       N::::::ND::::::::::::DDD      SS:::::::::::::::S
-D:::::::::::::::DD    OO:::::::::::::OO E::::::::::::::::::::ER::::::RRRRRR:::::R S:::::SSSSSS::::::S     M::::::::M           M::::::::MI::::::::IN::::::::N      N::::::ND:::::::::::::::DD   S:::::SSSSSS::::::S
-DDD:::::DDDDD:::::D  O:::::::OOO:::::::OEE::::::EEEEEEEEE::::ERR:::::R     R:::::RS:::::S     SSSSSSS     M:::::::::M         M:::::::::MII::::::IIN:::::::::N     N::::::NDDD:::::DDDDD:::::D  S:::::S     SSSSSSS
-  D:::::D    D:::::D O::::::O   O::::::O  E:::::E       EEEEEE  R::::R     R:::::RS:::::S                 M::::::::::M       M::::::::::M  I::::I  N::::::::::N    N::::::N  D:::::D    D:::::D S:::::S            
-  D:::::D     D:::::DO:::::O     O:::::O  E:::::E               R::::R     R:::::RS:::::S                 M:::::::::::M     M:::::::::::M  I::::I  N:::::::::::N   N::::::N  D:::::D     D:::::DS:::::S            
-  D:::::D     D:::::DO:::::O     O:::::O  E::::::EEEEEEEEEE     R::::RRRRRR:::::R  S::::SSSS              M:::::::M::::M   M::::M:::::::M  I::::I  N:::::::N::::N  N::::::N  D:::::D     D:::::D S::::SSSS         
-  D:::::D     D:::::DO:::::O     O:::::O  E:::::::::::::::E     R:::::::::::::RR    SS::::::SSSSS         M::::::M M::::M M::::M M::::::M  I::::I  N::::::N N::::N N::::::N  D:::::D     D:::::D  SS::::::SSSSS    
-  D:::::D     D:::::DO:::::O     O:::::O  E:::::::::::::::E     R::::RRRRRR:::::R     SSS::::::::SS       M::::::M  M::::M::::M  M::::::M  I::::I  N::::::N  N::::N:::::::N  D:::::D     D:::::D    SSS::::::::SS  
-  D:::::D     D:::::DO:::::O     O:::::O  E::::::EEEEEEEEEE     R::::R     R:::::R       SSSSSS::::S      M::::::M   M:::::::M   M::::::M  I::::I  N::::::N   N:::::::::::N  D:::::D     D:::::D       SSSSSS::::S 
-  D:::::D     D:::::DO:::::O     O:::::O  E:::::E               R::::R     R:::::R            S:::::S     M::::::M    M:::::M    M::::::M  I::::I  N::::::N    N::::::::::N  D:::::D     D:::::D            S:::::S
-  D:::::D    D:::::D O::::::O   O::::::O  E:::::E       EEEEEE  R::::R     R:::::R            S:::::S     M::::::M     MMMMM     M::::::M  I::::I  N::::::N     N:::::::::N  D:::::D    D:::::D             S:::::S
-DDD:::::DDDDD:::::D  O:::::::OOO:::::::OEE::::::EEEEEEEE:::::ERR:::::R     R:::::RSSSSSSS     S:::::S     M::::::M               M::::::MII::::::IIN::::::N      N::::::::NDDD:::::DDDDD:::::D  SSSSSSS     S:::::S
-D:::::::::::::::DD    OO:::::::::::::OO E::::::::::::::::::::ER::::::R     R:::::RS::::::SSSSSS:::::S     M::::::M               M::::::MI::::::::IN::::::N       N:::::::ND:::::::::::::::DD   S::::::SSSSSS:::::S
-D::::::::::::DDD        OO:::::::::OO   E::::::::::::::::::::ER::::::R     R:::::RS:::::::::::::::SS      M::::::M               M::::::MI::::::::IN::::::N        N::::::ND::::::::::::DDD     S:::::::::::::::SS 
-DDDDDDDDDDDDD             OOOOOOOOO     EEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRR SSSSSSSSSSSSSSS        MMMMMMMM               MMMMMMMMIIIIIIIIIINNNNNNNN         NNNNNNNDDDDDDDDDDDDD         SSSSSSSSSSSSSSS   
-                                                                                                                                                                                                                   
-                                                                                                                                                                                                                   
-                                                                                                                                                                                                                   
-                                                                                                                                                                                                                   
-                                                                                                                                                                                                                   
+        
+                          <img width="1535" height="367" alt="ascii-art-text" src="https://github.com/user-attachments/assets/307f5b70-aad5-4be9-887f-2aed13d29903" />
+                                                                                                                                                                                         
                                                                                                                                                                                                                    
                                                                                                                                                                                                                    
 ## Hi there 👋
